@@ -1,12 +1,12 @@
 <div style="width: 100%;">
    <div style="float:left; width: 80%">
    <h1>Audra</h1>
-   Audra, the Mayor of Stinktown.
+   <p>Audra, the Mayor of Stinktown.</p>
    <h2>Early Life</h2>
    <p>Audra was born on October 27th, 1999 via asexual reproduction between Rivers Cuomo and himself. She then 
       proceeded to fuck around for the next 15 years before entering Millard South High School. It was here she
       made several lifelong friends and enemies. In 2020 she would found the ancestral realm of "Stinktown" 
-      along with friends such as "Traz", "Nathan", and "Jebediah". </p>
+      along with friends such as "Traz", "Nathan", and "Jebediah".</p>
 
       
    <h2>Music</h2>
