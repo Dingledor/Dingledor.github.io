@@ -13,7 +13,17 @@
    <p>Audra plays guitar and sings in a band. She writes original music and is very talented. She also regularly 
       streams live music sets to her Twitch account, "mayorofstinktown" on Twitch.</p>
 
-      
+   <h2>Media Tastes</h2>
+   <p>Audra is known to be a fan of the interactive cinematic experience, "Heavy Rain". </p>
+   <p>She also enjoys the music of Weezer</p>
+
+   <h2>Quotes</h2>
+   <p>“no loads refused”</p>
+   <p>"I'm an outie vulva"</p>
+   <p>"This past year has just been me finding out how much I love things that simulate the taste of Play-Doh"</p>
+   <p>"He looks like he'd be verbally abusive to me I NEED HIM"</p>
+
+   <h2>Gallery</h2>
    </div>
    <div style="float:right; width: 15%; border:2px solid black">
      <marquee direction="left" height="500px">
