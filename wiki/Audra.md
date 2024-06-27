@@ -1,4 +1,3 @@
-<section style="background-image: url('/assets/images/ezgif.com-speed.gif')">
 <div style="width: 100%">
    <div style="float:left; width: 80%">
    <h1>Audra</h1>
@@ -33,4 +32,4 @@
    </div>
 </div>
 <div style="clear:both"></div>
-</section>
+* {background-image: url('/assets/images/ezgif.com-speed.gif')}
