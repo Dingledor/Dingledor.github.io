@@ -2,11 +2,12 @@
 
 
 Audra, the Mayor of Stinktown.
+
 <div style="width: 100%;">
-   <div style="float:left; width: 80%">
+   <div style="float:left; width: 80%; border:thin">
      Babbaooo
    </div>
-   <div style="float:right;">
+   <div style="float:right; border:thin">
      wibodoib
    </div>
 </div>
