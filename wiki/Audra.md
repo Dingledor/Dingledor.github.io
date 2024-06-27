@@ -82,7 +82,7 @@ div.desc {
    </div>
    <div style="float:right; width: 15%; border:2px solid black">
      <marquee direction="left" height="500px">
-     <img src="/assets/images/ezgif.com-speed.gif" alt="cool grl">
+     <img src="/assets/images/Audra-Dance.gif" alt="cool grl">
      </marquee>
    </div>
 </div>
