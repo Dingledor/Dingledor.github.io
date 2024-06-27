@@ -1,9 +1,9 @@
 <div style="width: 100%;">
    <div style="float:left; width: 80%">
-      <h1>Audra</h1>
-   
-
+   <h1>Audra</h1>
    Audra, the Mayor of Stinktown.
+   <h2>Early Life</h2>
+      Audra was born on October 27th, 1999 via asexual reproduction between Rivers Cuomo and himself.
    </div>
    <div style="float:right; border:2px solid black">
      <marquee direction="left" height="500px">
