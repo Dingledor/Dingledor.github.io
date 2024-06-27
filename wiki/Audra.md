@@ -3,7 +3,11 @@
    <h1>Audra</h1>
    Audra, the Mayor of Stinktown.
    <h2>Early Life</h2>
-      Audra was born on October 27th, 1999 via asexual reproduction between Rivers Cuomo and himself.
+      Audra was born on October 27th, 1999 via asexual reproduction between Rivers Cuomo and himself. She then proceeded to fuck around for
+      the next 15 years before entering Millard South High School. It was here she made several lifelong friends and enemies. In 2020 she would
+   <h2>Music</h2>
+      Audra plays guitar and sings in a band. She writes original music and is very talented. She also regularly streams live music sets
+      to her Twitch account, "mayorofstinktown" on Twitch.
    </div>
    <div style="float:right; border:2px solid black">
      <marquee direction="left" height="500px">
