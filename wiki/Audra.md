@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-   <div style="float:left; width: 80%; border:2px solid black">
+   <div style="float:left; width: 80%">
       <h1>Audra</h1>
    
 
