@@ -86,7 +86,7 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/assets/images/Audra-Stare.JPG">
+  <a target="_blank" href="/assets/images/Audra-Dance.gif">
     <img src="/assets/images/Audra-Dance.gif" alt="Audra dancing" width="600" height="400">
   </a>
   <div class="desc">Audra getting down</div>
