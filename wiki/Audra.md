@@ -1,4 +1,4 @@
-<div style="width: 100%; background-image='/assets/images/ezgif.com-speed.gif'">
+<div style="width: 100%; background-image: url('/assets/images/ezgif.com-speed.gif')">
    <div style="float:left; width: 80%">
    <h1>Audra</h1>
    <p>Audra, the Mayor of Stinktown.</p>
