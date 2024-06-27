@@ -15,7 +15,7 @@
 
       
    </div>
-   <div style="float:right; border:2px solid black">
+   <div style="float:right; width: 15%; border:2px solid black">
      <marquee direction="left" height="500px">
      <img src="/assets/images/ezgif.com-speed.gif" alt="cool grl">
      </marquee>
