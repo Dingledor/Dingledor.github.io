@@ -5,7 +5,6 @@ Audra, the Mayor of Stinktown.
 
 <div>
   <marquee direction="up" height="500px">
-    wheee!
+     <img src="/assets/images/ezgif.com-speed.gif" alt="cool grl">
   </marquee>
-  <img src="/assets/images/ezgif.com-speed.gif" alt="cool grl">
 </div>
