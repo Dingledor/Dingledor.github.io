@@ -51,31 +51,38 @@ div.desc {
 <body>
 
 <div class="gallery">
-  <a target="_blank" href="img_5terre.jpg">
-    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+  <a target="_blank" href="/assets/images/Audra-Kennel.jpg">
+    <img src="/assets/images/Audra-Kennel.jpg" alt="Audra inside a kennel" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Audra experimenting with petplay</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  <a target="_blank" href="/assets/images/Audra-Yearbook.jpg">
+    <img src="/assets/images/Audra-Yearbook.jpg" alt="Audra yearbook photos" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Audra's high school arc</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+  <a target="_blank" href="/assets/images/Audra-Peace.jpg">
+    <img src="/assets/images/Audra-Peace.jpg" alt="Audra making peace signs" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Audra cute</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  <a target="_blank" href="/assets/images/Audra-Tattoo.jpg">
+    <img src="/assets/images/Audra-Tattoo.jpg" alt="Audra posing with Jaden and Cade displaying sonic tattoos" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Audra joins an autistic biker gang</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/assets/images/Audra-Stare.jpg">
+    <img src="/assets/images/Audra-Stare.jpg" alt="Audra resting head on hands and staring at camera" width="600" height="400">
+  </a>
+  <div class="desc">Audra pretty</div>
 </div>
 
 </body>
