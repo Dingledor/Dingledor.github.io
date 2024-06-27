@@ -79,8 +79,8 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/assets/images/Audra-Stare.jpg">
-    <img src="/assets/images/Audra-Stare.jpg" alt="Audra resting head on hands and staring at camera" width="600" height="400">
+  <a target="_blank" href="/assets/images/Audra-Stare.JPG">
+    <img src="/assets/images/Audra-Stare.JPG" alt="Audra resting head on hands and staring at camera" width="600" height="400">
   </a>
   <div class="desc">Audra pretty</div>
 </div>
