@@ -32,4 +32,6 @@
    </div>
 </div>
 <div style="clear:both"></div>
+<style>
 * {background-image: url('/assets/images/ezgif.com-speed.gif')}
+</style>
