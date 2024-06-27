@@ -33,5 +33,12 @@
 </div>
 <div style="clear:both"></div>
 <style>
-* {background-image: url('/assets/images/ezgif.com-speed.gif')}
+* {.marquee {
+                height: 50px;
+                overflow: hidden;
+                position: relative;
+                background: #fefefe;
+                color: #333;
+                border: 1px solid #4a4a4a;
+            }}
 </style>
