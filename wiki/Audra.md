@@ -95,7 +95,7 @@ div.desc {
 </body>
    </div>
    <div style="float:right; width: 15%; border:2px solid black">
-   <img src="/assets/images/Audra-Profile.jpg" alt="cool grl">
+   <img src="/assets/images/Audra-Profile.JPG" alt="cool grl">
    </div>
 </div>
 <div style="clear:both"></div>
