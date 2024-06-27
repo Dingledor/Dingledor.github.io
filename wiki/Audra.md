@@ -85,6 +85,13 @@ div.desc {
   <div class="desc">Audra pretty</div>
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="/assets/images/Audra-Stare.JPG">
+    <img src="/assets/images/Audra-Dance.gif" alt="Audra dancing" width="600" height="400">
+  </a>
+  <div class="desc">Audra getting down</div>
+</div>
+
 </body>
    </div>
    <div style="float:right; width: 15%; border:2px solid black">
