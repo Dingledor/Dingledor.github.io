@@ -1,6 +1,6 @@
 <div style="width: 100%">
   <div style="float:right; width:20%; border:2px solid black padding-left=10px">
-    <table>
+    <table style="border:2px solid black">
       <tbody>
         <tr>
           <th colspan="2">Audra</th>
