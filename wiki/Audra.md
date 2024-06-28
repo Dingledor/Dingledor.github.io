@@ -74,7 +74,7 @@
    </div>
 
   </div>
-  <div style="float:right; border:2px solid black">
+  <div style="float:right; width:20%; border:2px solid black">
     <table>
       <tbody>
         <tr>
