@@ -3,7 +3,7 @@
     <table style="border:2px solid black">
       <tbody>
         <tr>
-          <th colspan="2" style="text-allign=center">Audra</th>
+          <th colspan="2" style="text-align=center">Audra</th>
         </tr>
         <tr>
           <td colspan="2">
