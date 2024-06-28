@@ -102,3 +102,4 @@
   </div>
 </div>
 <div style="clear:both"></div>
+<img src="/assets/images/Audra-Profile.jpg" alt="cool grl">
