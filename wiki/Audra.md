@@ -1,5 +1,5 @@
 <div style="width: 100%">
-  <div style="float:right; width:20%; border:2px solid black">
+  <div style="float:right; width:20%; border:2px solid black padding-left=10px">
     <table>
       <tbody>
         <tr>
