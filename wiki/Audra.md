@@ -82,7 +82,7 @@
         </tr>
         <tr>
           <td colspan="2">
-            <img src="/assets/images/Audra-Profile.jpg" alt="cool grl">
+            <img src="/assets/images/Audra-Profile.JPG" alt="cool grl">
           </td>
         </tr>
         <tr>
@@ -102,4 +102,3 @@
   </div>
 </div>
 <div style="clear:both"></div>
-<img src="/assets/images/Audra-Profile.jpg" alt="cool grl">
