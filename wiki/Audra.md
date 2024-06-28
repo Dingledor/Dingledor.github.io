@@ -1,5 +1,30 @@
 <div style="width: 100%">
-  <div style="float:left">
+  <div style="float:right; width:20%; border:2px solid black">
+    <table>
+      <tbody>
+        <tr>
+          <th colspan="2">Audra</th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <img src="/assets/images/Audra-Profile.JPG" alt="cool grl">
+          </td>
+        </tr>
+        <tr>
+          <th>Born</th>
+          <td>Oct 27, 2000</td>
+        </tr>
+        <tr>
+          <th>Occupation</th>
+          <td>Godfathers Employee</td>
+        </tr>
+        <tr>
+          <th>Joined Stinktown</th>
+          <td>Jan 12, 2000</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
     <h1>Audra</h1>
     <p>Audra, the Mayor of Stinktown.</p>
     <h2>Early Life</h2>
@@ -72,33 +97,5 @@
       </a>
       <div class="desc">Audra pretty</div>
    </div>
-
-  </div>
-  <div style="float:right; width:20%; border:2px solid black">
-    <table>
-      <tbody>
-        <tr>
-          <th colspan="2">Audra</th>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <img src="/assets/images/Audra-Profile.JPG" alt="cool grl">
-          </td>
-        </tr>
-        <tr>
-          <th>Born</th>
-          <td>Oct 27, 2000</td>
-        </tr>
-        <tr>
-          <th>Occupation</th>
-          <td>Godfathers Employee</td>
-        </tr>
-        <tr>
-          <th>Joined Stinktown</th>
-          <td>Jan 12, 2000</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
 </div>
 <div style="clear:both"></div>
