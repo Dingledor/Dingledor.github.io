@@ -1,5 +1,5 @@
 <div style="width: 100%">
-  <div style="float:left; width: 80%">
+  <div style="float:left">
     <h1>Audra</h1>
     <p>Audra, the Mayor of Stinktown.</p>
     <h2>Early Life</h2>
