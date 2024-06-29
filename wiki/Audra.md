@@ -37,6 +37,18 @@
             </ul>
           </td>
         </tr>
+        <tr>
+          <th>Aliases</th>
+          <td>
+            <ul>
+              <li>mayorofstinktown</li>
+              <li>Ethernet IV Drip</li>
+              <li>Holly</li>
+              <li>KingdomHeartsLPfan128</li>
+              <li>Princess Ibuprofen</li>
+            </ul>
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
