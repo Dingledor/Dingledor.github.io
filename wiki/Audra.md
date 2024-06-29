@@ -30,9 +30,10 @@
           <th>Celebrity Crushes</th>
           <td>
             <ul>
-              <li>Enormous Jayden</li>
+              <li>Norman Jayden</li>
               <li>Sly Cooper</li>
-              <li>Finnick O'Dair</li>
+              <li>Finnick Odair</li>
+              <li>Poenix Wright</li>
             </ul>
           </td>
         </tr>
@@ -49,7 +50,7 @@
   <p>Audra plays guitar and sings in a band. She writes original music and is very talented. She also regularly streams live music sets to her Twitch account, "mayorofstinktown" on Twitch.</p>
   
   <h2>Media Tastes</h2>
-  <p>Audra is known to be a fan of the interactive cinematic experience, "Heavy Rain". She describes this game as her "comfy place" and has a major crush on the character "Normal James". To symbolize her commitment to this game, she wears a metal origami pendant</p>
+  <p>Audra is known to be a fan of the interactive cinematic experience, "Heavy Rain". She describes this game as her "comfy place" and has a major crush on the character Norman Jayden. To symbolize her commitment to this game, she wears a metal origami pendant</p>
   <p>She also enjoys the music of Weezer. Ooo wee ooo.</p>
   <p>Audra is the operator of the enigmatic YouTube channel "KingdomHeartsLPfan128". It's full of very funny garbage. High concept, low quality. Love it.</p>
   
