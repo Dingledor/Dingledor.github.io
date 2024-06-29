@@ -20,7 +20,7 @@
         </tr>
         <tr>
           <th>Joined Stinktown</th>
-          <td>Jan 12, 2000</td>
+          <td>Jan 12, 2020</td>
         </tr>
         <tr>
           <th>Achievements</th>
