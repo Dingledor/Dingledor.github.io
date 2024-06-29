@@ -44,7 +44,7 @@
   <h2>Media Tastes</h2>
   <p>Audra is known to be a fan of the interactive cinematic experience, "Heavy Rain". She describes this game as her "comfy place" and has a major crush on the character "Normal James". To symbolize her commitment to this game, she wears a metal origami pendant</p>
   <p>She also enjoys the music of Weezer. Ooo wee ooo.</p>
-  <p>Audra is the operator of the enigmatic YouTube channel "KingdomHeartsLpFan</p>
+  <p>Audra is the operator of the enigmatic YouTube channel "KingdomHeartsLPfan128". It's full of very funny garbage. High concept, low quality. Love it.</p>
   <h2>Quotes</h2>
   <p>“no loads refused”</p>
   <p>"I'm an outie vulva"</p>
