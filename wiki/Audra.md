@@ -26,6 +26,12 @@
           <th>Achievements</th>
           <td>Attended Stinkcon I</td>
         </tr>
+        <tr>
+          <th>Celebrity Crushes</th>
+          <td>Enormous Jayden</td>
+          <td>Sly Cooper</td>
+          <td>Finnick O'Dair</td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -36,8 +42,9 @@
   <h2>Music</h2>
   <p>Audra plays guitar and sings in a band. She writes original music and is very talented. She also regularly streams live music sets to her Twitch account, "mayorofstinktown" on Twitch.</p>
   <h2>Media Tastes</h2>
-  <p>Audra is known to be a fan of the interactive cinematic experience, "Heavy Rain". </p>
-  <p>She also enjoys the music of Weezer</p>
+  <p>Audra is known to be a fan of the interactive cinematic experience, "Heavy Rain". She describes this game as her "comfy place" and has a major crush on the character "Normal James". To symbolize her commitment to this game, she wears a metal origami pendant</p>
+  <p>She also enjoys the music of Weezer. Ooo wee ooo.</p>
+  <p>Audra is the operator of the enigmatic YouTube channel "KingdomHeartsLpFan</p>
   <h2>Quotes</h2>
   <p>“no loads refused”</p>
   <p>"I'm an outie vulva"</p>
