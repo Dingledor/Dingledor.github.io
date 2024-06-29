@@ -145,7 +145,14 @@
     <a target="_blank" href="/assets/images/Audra-Eyes.jpg">
     <img src="/assets/images/Audra-Eyes.jpg" alt="Audra eyes" width="600" height="400">
     </a>
-    <div class="desc">Audra</div>
+    <div class="desc">Audra Racism</div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="/assets/images/Audra-Cory.jpg">
+    <img src="/assets/images/Audra-Cory.jpg" alt="Audra with Cory" width="600" height="400">
+    </a>
+    <div class="desc">Audra and Cozza</div>
   </div>
 </div>
 <div style="clear:both"></div>
