@@ -22,6 +22,10 @@
           <th>Joined Stinktown</th>
           <td>Jan 12, 2000</td>
         </tr>
+        <tr>
+          <th>Achievements</th>
+          <td>Attended Stinkcon I</td>
+        </tr>
       </tbody>
     </table>
   </div>
