@@ -28,9 +28,9 @@
         </tr>
         <tr>
           <th>Celebrity Crushes</th>
-          <td>Enormous Jayden</td>
-          <td>Sly Cooper</td>
-          <td>Finnick O'Dair</td>
+          <td>Enormous Jayden
+            Sly Cooper
+            Finnick O'Dair</td>
         </tr>
       </tbody>
     </table>
