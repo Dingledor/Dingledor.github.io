@@ -8,7 +8,7 @@
         </tr>
         <tr>
           <td colspan="2">
-            <img src="/assets/images/Audra-Profile.JPG" alt="cool grl">
+            <img src="/assets/images/Trevor-Cool.jpg" alt="cool dude">
           </td>
         </tr>
         <tr>
@@ -78,10 +78,10 @@
   }
   </style>
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Kennel.jpg">
-    <img src="/assets/images/Audra-Kennel.jpg" alt="Audra inside a kennel" width="600" height="400">
+    <a target="_blank" href="/assets/images/Trevor-Profile.jpg">
+    <img src="/assets/images/Trevor-Profile.jpg" alt="Trevor" width="600" height="400">
     </a>
-    <div class="desc">Audra experimenting with petplay</div>
+    <div class="desc">Trebor</div>
   </div>
 </div>
 <div style="clear:both"></div>
