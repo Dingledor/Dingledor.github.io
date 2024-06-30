@@ -42,7 +42,7 @@
     </table>
   </div>
   <h1>Trevor</h1>
-  <p>Audra, the Mayor of Stinktown.</p>
+  <p>Trevor (otherwise known as Trebor, Trevonious, Tralion, Turvis, Travis, Tyler, or Kylar) is computer, and a gamer. A cool guy, but unfortunately a ginger.</p>
   
   <h2>Early Life</h2>
   <p></p>
