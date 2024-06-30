@@ -4,7 +4,7 @@
     <table style="border:2px solid black">
       <tbody>
         <tr>
-          <th colspan="2" style="text-align=center">Audra</th>
+          <th colspan="2" style="text-align=center">Trevor</th>
         </tr>
         <tr>
           <td colspan="2">
@@ -13,7 +13,7 @@
         </tr>
         <tr>
           <th>Born</th>
-          <td>Oct 27, 2000</td>
+          <td>Oct 10, 2000</td>
         </tr>
         <tr>
           <th>Occupation</th>
@@ -28,59 +28,31 @@
           <td>Attended Stinkcon I</td>
         </tr>
         <tr>
-          <th>Celebrity Crushes</th>
-          <td>
-            <ul>
-              <li>Norman Jayden</li>
-              <li>Sly Cooper</li>
-              <li>Finnick Odair</li>
-              <li>Poenix Wright</li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
           <th>Aliases</th>
           <td>
             <ul>
-              <li>mayorofstinktown</li>
-              <li>Ethernet IV Drip</li>
-              <li>Holly</li>
-              <li>KingdomHeartsLPfan128</li>
-              <li>Princess Ibuprofen</li>
+              <li>Tralion</li>
+              <li>Traz</li>
+              <li>Crevice</li>
+              <li>Greasy Nutwax</li>
             </ul>
           </td>
         </tr>
       </tbody>
     </table>
   </div>
-  <h1>Audra</h1>
+  <h1>Trevor</h1>
   <p>Audra, the Mayor of Stinktown.</p>
   
   <h2>Early Life</h2>
-  <p>Audra was born on October 27th, 2000 via asexual reproduction between Rivers Cuomo and himself. She then proceeded to fuck around for the next 15 years before entering Millard South High School. It was here she made several lifelong friends and enemies. In 2020 she would found the ancestral realm of "Stinktown" along with friends such as "Traz" and "Nathan".</p>
-  
-  <h2>Music</h2>
-  <p>Audra plays guitar and sings in a band. She writes original music and is very talented. She also regularly streams live music sets to her Twitch account, "mayorofstinktown" on Twitch.</p>
+  <p></p>
   
   <h2>Media Tastes</h2>
-  <p>Audra is known to be a fan of the interactive cinematic experience, "Heavy Rain". She describes this game as her "comfy place" and has a major crush on the character Norman Jayden. To symbolize her commitment to this game, she wears a metal origami pendant</p>
-  <p>She also enjoys the music of Weezer. Ooo wee ooo.</p>
-  <p>Audra is the operator of the enigmatic YouTube channel "KingdomHeartsLPfan128". It's full of very funny garbage. High concept, low quality. Love it.</p>
+  <p>Trevor is a fan of the bands Ghost and Blink 182.</p>
   
   <h2>Quotes</h2>
-  <p>“no loads refused”</p>
-  <p>"I'm an outie vulva"</p>
-  <p>"This past year has just been me finding out how much I love things that simulate the taste of Play-Doh"</p>
-  <p>"He looks like he'd be verbally abusive to me I NEED HIM"</p>
 
   <h2>Trivia</h2>
-  <p>Audra claims to be "Toddlerpilled" and enjoys activities such as:</p>
-  <ul>
-    <li>Sitting in booster seats</li>
-    <li>Swinging her legs below her while sitting</li>
-    <li>Activating the child-lock when entering someone's car</li>
-    <li>Drinking from a sippy-cup</li>
-  </ul>
 <!--Gallery Section-->
   <h2>Gallery</h2>
   <style>
@@ -110,62 +82,6 @@
     <img src="/assets/images/Audra-Kennel.jpg" alt="Audra inside a kennel" width="600" height="400">
     </a>
     <div class="desc">Audra experimenting with petplay</div>
-  </div>
-
-  <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Yearbook.jpg">
-    <img src="/assets/images/Audra-Yearbook.jpg" alt="Audra yearbook photos" width="600" height="400">
-    </a>
-    <div class="desc">Audra's high school arc</div>
-  </div>
-
-  <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Peace.jpg">
-    <img src="/assets/images/Audra-Peace.jpg" alt="Audra making peace signs" width="600" height="400">
-    </a>
-    <div class="desc">Audra cute</div>
-  </div>
-
-  <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Tattoo.jpg">
-    <img src="/assets/images/Audra-Tattoo.jpg" alt="Audra posing with Jaden and Cade displaying sonic tattoos" width="600" height="400">
-    </a>
-    <div class="desc">Audra joins an autistic biker gang</div>
-  </div>
-
-  <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Stare.JPG">
-    <img src="/assets/images/Audra-Stare.JPG" alt="Audra resting head on hands and staring at camera" width="600" height="400">
-    </a>
-    <div class="desc">Audra pretty</div>
-  </div>
-  
-  <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Bayley.jpg">
-    <img src="/assets/images/Audra-Bayley.jpg" alt="Audra and Bayley" width="600" height="400">
-    </a>
-    <div class="desc">Audra and Bayley</div>
-  </div>
-  
-  <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-CockPOV.jpg">
-    <img src="/assets/images/Audra-CockPOV.jpg" alt="Audra looking down at camera" width="600" height="400">
-    </a>
-    <div class="desc">Audra cock POV</div>
-  </div>
-  
-  <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Eyes.jpg">
-    <img src="/assets/images/Audra-Eyes.jpg" alt="Audra eyes" width="600" height="400">
-    </a>
-    <div class="desc">Audra Racism</div>
-  </div>
-
-  <div class="gallery">
-    <a target="_blank" href="/assets/images/Audra-Cory.jpg">
-    <img src="/assets/images/Audra-Cory.jpg" alt="Audra with Cory" width="600" height="400">
-    </a>
-    <div class="desc">Audra and Cozza</div>
   </div>
 </div>
 <div style="clear:both"></div>
